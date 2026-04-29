@@ -268,3 +268,31 @@ https://www.dropbox.com/scl/fi/8cxarz3sj8273heav80vp/martabat-misi-berdarah.mp4?
 https://www.dropbox.com/scl/fi/52410tooiumfo3db0dzhx/raid-2.mp4?rlkey=ceegbaghfmaywyyeurtnqe7ok&st=gjqxx08n&dl=1
 #EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/j961jqfj85adbvl3gxwue/17550930297012280367053205392869.jpg?rlkey=e0b8g1dacr2cquqqq6ewm0c31&st=oxq8t9u4&dl=1" group-title="▶ VOD NETFLIX",Shadow Force (2025)
 https://www.dropbox.com/scl/fi/jnba9s8vrv45yecgchkcn/shadow-force.mp4?rlkey=3mfzj2vs1l5il2q9ijtjwj15g&st=085crcr6&dl=1
+
+#######################################################################▶ SERIES#############################################################
+
+### Isteri Rahsia Ungku Jabbar ###
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2bb892fa91246b11d8522ea6bda28810:1bbd53511bdc9bf8d3b62b3780047572
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_pjqcbifv&password=2yqJpHw2&channel=IRUJABBARE01
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=cdfc950bd32fa898ac063e7504d00110:dc0e643ac3a7f3833afe2315af44574f
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_pjqcbifv&password=2yqJpHw2&channel=IRUJABBARE02
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E03
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=97daa6bb4a91d9978fe398fcb2eed810:e3f0529c9fb61baba36411259f6c3322
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_pjqcbifv&password=2yqJpHw2&channel=IRUJABBARE03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E04
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=fa28e93421fb85f8c76cf3925d839d10:bcaec914500826cc4759c2754323301e
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_pjqcbifv&password=2yqJpHw2&channel=IRUJABBARE04
+
